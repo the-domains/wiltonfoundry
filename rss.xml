@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wiltonfoundry]]></title>
         <description><![CDATA[Wiltonfoundry]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wiltonfoundry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 20:05:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 20:15:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wiltonfoundry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Multinational Flag Typeface</p>]]></description>
+            <link>https://thegrid.ai/wiltonfoundry/multinational-flag-typeface/index.html</link>
+            <guid isPermaLink="false">003415c3-1d5f-425d-9353-3bf8d9cf5c61</guid>
+            <pubDate>Sun, 13 Mar 2016 20:14:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e3578cc-1f78-4391-855d-9e4e9c6266a6.png">]]></description>
-            <link>undefinedback-story-in-the-summer-of-2011-two-representatives-from/index.html</link>
+            <link>https://thegrid.ai/wiltonfoundry/back-story-in-the-summer-of-2011-two-representatives-from/index.html</link>
             <guid isPermaLink="false">edc76827-5725-4f78-bc3f-ceceda929a33</guid>
             <pubDate>Sun, 13 Mar 2016 20:04:21 GMT</pubDate>
         </item>
