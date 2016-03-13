@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Multinational Flag Typeface
-datePublished: '2016-03-13T20:14:56.443Z'
-dateModified: '2016-03-13T20:14:18.784Z'
+datePublished: '2016-03-13T20:15:29.023Z'
+dateModified: '2016-03-13T20:15:02.252Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-13-multinational-flag-typeface.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-multinational-flag-typeface.md
-published: true
 url: multinational-flag-typeface/index.html
 _type: Article
 
