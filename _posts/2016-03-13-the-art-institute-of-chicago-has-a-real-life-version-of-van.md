@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Art Institute of Chicago has a real-life version of van Gogh’s famous bedroom painting that you can rent on AirBNB for $10 a night.
-datePublished: '2016-03-13T20:18:18.687Z'
-dateModified: '2016-03-13T20:18:15.921Z'
-title: ''
-author: []
-sourcePath: _posts/2016-03-13-the-art-institute-of-chicago-has-a-real-life-version-of-van.md
-published: true
+datePublished: '2016-03-13T20:18:08.501Z'
+dateModified: '2016-03-13T20:17:38.578Z'
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+title: ''
+author: []
+sourcePath: _posts/2016-03-13-the-art-institute-of-chicago-has-a-real-life-version-of-van.md
+published: true
 url: the-art-institute-of-chicago-has-a-real-life-version-of-van/index.html
 _type: Article
 
 ---
 The Art Institute of Chicago has a real-life version of van Gogh's famous bedroom painting that you can rent on AirBNB for $10 a night.
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ab60c04-a036-49c1-a21c-932d0dfa5b04.png)
 
 As an impoverished artist, Vincent van Gogh would probably have made good use of Airbnb in his time, to supplement his meagre income (and pay back his brother Theo ...) or even to find a place to stay when hopping around European cities.
